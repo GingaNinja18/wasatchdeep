@@ -218,6 +218,7 @@ button {
     background-image: url(../Images2/wasatchImage1.png);
     border-radius: 50px 10px;
     height: auto;
+    background-position: center;
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
